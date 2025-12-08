@@ -16,6 +16,24 @@
       "message": "What\u0027s this for?",
       "revId": "e68a1c2c2383a5a67385fc8990d7be47174244cf",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0c01df80_92ab8059",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000057
+      },
+      "writtenOn": "2025-12-08T02:58:34Z",
+      "side": 1,
+      "message": "chre look that files for exynos where is missing to included, that from los qpr1",
+      "parentUuid": "11f258b9_10bb8997",
+      "revId": "e68a1c2c2383a5a67385fc8990d7be47174244cf",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
